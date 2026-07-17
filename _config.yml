@@ -2,22 +2,22 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Weilong Hu # the website title (if blank, full name will be used instead)
-first_name: Weilong
+title: Taonian Liang # the website title (if blank, full name will be used instead)
+first_name: Taonian
 middle_name: " "
-last_name: Hu
+last_name: Liang
 contact_note: >
   Email is the preferred way to contact me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic homepage of Weilong Hu, Vice President at the Chery Intelligent Driving Center.
+  Academic homepage of Taonian Liang, Senior Chief Engineer at the Chery Intelligent Driving Center.
 footer_text: >
   Powered by Jekyll with the al-folio theme. Hosted by GitHub Pages.
-keywords: intelligent driving, autonomous driving, end-to-end autonomous driving, automatic parking, highway NOA, intelligent transportation systems
+keywords: intelligent driving, autonomous driving, vehicle control, mechatronic engineering, electrical engineering and automation
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🚗 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://seu-cdh.github.io
-baseurl: /huweilong
+baseurl: /liangtaonian
 last_updated: true
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -342,8 +342,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Hu
-  first_name: Weilong
+  last_name: Liang
+  first_name: Taonian
 
   style: apa
   locale: en
