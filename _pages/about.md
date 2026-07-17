@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 nav: false
-subtitle: 'Vice President · Chery Intelligent Driving Center'
+subtitle: 'Senior Chief Engineer · Chery Intelligent Driving Center'
 
 profile:
   align: right
@@ -31,20 +31,20 @@ latest_posts:
 }
 </style>
 
-I am a Vice President at the **Chery Intelligent Driving Center** My professional and research interests include intelligent driving, autonomous driving, end-to-end driving systems, automatic parking, highway navigation assistance, and intelligent transportation systems.
+I am a Senior Chief Engineer at the **Chery Intelligent Driving Center** My professional and research interests include intelligent driving systems, autonomous driving, vehicle control, mechatronic engineering, and electrical engineering and automation.
 
-**Email:** [yaohongyi3@mychery.com](mailto:yaohongyi3@mychery.com)
+**Email:** [Liangtaonian@mychery.com](mailto:Liangtaonian@mychery.com)
 
 ## Professional Interests
 
-- Intelligent Driving
+- Intelligent Driving Systems
 - Autonomous Driving
-- End-to-End Driving Systems
-- Automatic Parking
-- Highway Navigation Assistance
-- Intelligent Transportation Systems
+- Vehicle Control and Decision-Making
+- Mechatronic Systems
+- Electrical Engineering and Automation
 
 ## Education
 
-- **Ph.D. in Vehicle Engineering**, School of Automotive and Transportation Engineering, Hefei University of Technology, Sep. 2011 – Jan. 2016
-- **B.Eng. in Vehicle Engineering**, Hefei University of Technology, Sep. 2007 – Jun. 2011
+- **Postdoctoral Researcher in Electrical Engineering**, School of Electrical Engineering and Automation, Harbin Institute of Technology, May 2012 – Oct. 2015
+- **Ph.D. in Mechatronic Engineering**, School of Mechano-Electronic Engineering, Xidian University, Jul. 2007 – Oct. 2011
+- **M.Eng. in Mechatronic Engineering**, School of Mechanical and Electrical Engineering, Xi'an University of Architecture and Technology, Sep. 2002 – Jun. 2005
